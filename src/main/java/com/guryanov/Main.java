@@ -9,6 +9,7 @@ public class Main {
         ArrayDigits[0] = last;
         ArrayDigits[ArrayDigits.length-1] = first;
         System.out.println(first);
+        System.out.println(first);
         System.out.println(last);
         System.out.println(last);
         System.out.println(Arrays.toString(ArrayDigits));
